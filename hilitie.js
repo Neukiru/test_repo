@@ -1,4 +1,5 @@
 
+
 registerPaint('hollowHighlights', class {
 
   static get inputProperties() { return ['--boxColor']; }
